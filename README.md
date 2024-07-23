@@ -44,4 +44,3 @@ This project is not licensed. You are free to use the code as you wish, but no w
 **Contact:** 📧  
 For questions or feedback, please reach out to me at akashjvanarse@gmail.com.
 
-<img width="1440" alt="Screenshot 2022-12-12 at 11 45 06 AM" src="https://user-images.githubusercontent.com/99256574/207236822-c70d824d-d93b-4387-9237-2457a4fb8147.png">
